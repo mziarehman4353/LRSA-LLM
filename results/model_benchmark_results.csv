@@ -1,0 +1,3 @@
+Model,Test_Accuracy,Test_Macro_F1
+SVM,0.8055,0.7796
+IndoBERT,0.8731,0.8556

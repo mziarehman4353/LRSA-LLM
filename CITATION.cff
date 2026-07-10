@@ -1,0 +1,20 @@
+
+cff-version: 1.2.0
+
+title: Stress-Testing Large Language Models (LLMs) against Code-Mixing and Distributional Shifts in Low-Resource NLP
+
+message: "If you use this repository, please cite the associated publication."
+
+type: software
+
+authors:
+  - family-names: Zafar
+    given-names: Zia Ul Rehman
+
+repository-code: https://github.com/mziarehman4353/LRSA-LLM
+
+license: MIT
+
+version: 1.0.0
+
+date-released: 2026-07-10

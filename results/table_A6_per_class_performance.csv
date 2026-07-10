@@ -1,0 +1,10 @@
+Model,Class,Precision,Recall,F1,Support
+SVM,negative,0.786,0.8293,0.8071,6639
+SVM,neutral,0.804,0.7549,0.7787,5162
+SVM,positive,0.6469,0.632,0.6394,2212
+IndoBERT,negative,0.8847,0.9024,0.8934,6639
+IndoBERT,neutral,0.8928,0.8708,0.8816,5162
+IndoBERT,positive,0.7928,0.7907,0.7918,2212
+XLM-R,negative,0.8893,0.8727,0.8809,6639
+XLM-R,neutral,0.8714,0.8609,0.8661,5162
+XLM-R,positive,0.7619,0.8259,0.7926,2212

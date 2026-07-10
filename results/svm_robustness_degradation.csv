@@ -1,0 +1,4 @@
+Dataset,Macro F1,Robustness Degradation
+Noise p=0.1,0.7275,0.0668
+Noise p=0.2,0.7193,0.0773
+Noise p=0.3,0.7061,0.0943
