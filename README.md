@@ -154,8 +154,6 @@ MIT License
 The transformer models are hosted separately on Hugging Face due to their size.
 
 ### IndoBERT
-https://huggingface.co/mziarehman4353
-
+https://huggingface.co/mziarehman4353/LRSA-IndoBERT-Sentiment-ID/
 ### XLM-R
-https://huggingface.co/mziarehman4353
-
+https://huggingface.co/mziarehman4353/LRSA-XLMR-Sentiment-ID
