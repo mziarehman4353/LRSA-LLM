@@ -149,11 +149,15 @@ If you use this repository, please cite the associated publication.
 MIT License
 
 
-## Pretrained Models
+## Suplimentary Materials
 
-The transformer models are hosted separately on Hugging Face due to their size.
+The transformer models and Dataset are hosted separately on Hugging Face due to their size.
 
 ### IndoBERT
 https://huggingface.co/mziarehman4353/LRSA-IndoBERT-Sentiment-ID/
 ### XLM-R
 https://huggingface.co/mziarehman4353/LRSA-XLMR-Sentiment-ID
+### Dataset
+https://huggingface.co/datasets/mziarehman4353/LRSA-LLM-Dataset
+### DOI Archive:
+https://doi.org/10.5281/zenodo.21297896
