@@ -128,16 +128,6 @@ docs/
 
 ---
 
-## Hugging Face Models
-
-IndoBERT:  
-https://huggingface.co/mziarehman4353
-
-XLM-R:  
-https://huggingface.co/mziarehman4353
-
----
-
 ## Citation
 
 If you use this repository, please cite the associated publication.
