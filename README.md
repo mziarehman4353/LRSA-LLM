@@ -71,50 +71,6 @@ Sentiment labels:
 
 ---
 
-## Main Results
-
-| Model | Accuracy | Macro F1 |
-|---------|---------:|---------:|
-| SVM | 0.8055 | 0.7796 |
-| IndoBERT | 0.8731 | 0.8556 |
-| XLM-R | 0.8610 | 0.8466 |
-
----
-
-## Robustness Results
-
-### Macro F1 under Noise
-
-| Model | Clean | p=0.1 | p=0.2 | p=0.3 |
-|---------|---------:|---------:|---------:|---------:|
-| SVM | 0.7796 | 0.7275 | 0.7193 | 0.7061 |
-| IndoBERT | 0.8556 | 0.8392 | 0.8150 | 0.7827 |
-| XLM-R | 0.8466 | 0.8352 | 0.8175 | 0.7982 |
-
----
-
-## Cross-Domain Generalization
-
-| Model | Generalization Score |
-|---------|---------:|
-| SVM | 0.7071 |
-| IndoBERT | 0.8394 |
-| XLM-R | 0.8243 |
-
----
-
-## Statistical Significance
-
-McNemar tests confirmed statistically significant differences between all evaluated models.
-
-| Comparison | p-value |
-|------------|---------:|
-| IndoBERT vs SVM | < 0.001 |
-| XLM-R vs SVM | < 0.001 |
-| IndoBERT vs XLM-R | < 0.001 |
-
----
-
 ## Repository Structure
 
 models/  
