@@ -5,9 +5,7 @@
 
 Zia Ul Rehman Zafar  
 Dedi Gunawan  
-Endang Wahyu Pamungkas  
-Widi Widayat  
-Helmi Imaduddin  
+Muhammad Nouman  
 
 Department of Informatics Engineering  
 Universitas Muhammadiyah Surakarta, Indonesia
@@ -18,7 +16,7 @@ Universitas Muhammadiyah Surakarta, Indonesia
 
 This repository accompanies the research study:
 
-**Stress-Testing Large Language Models (LLMs) against Code-Mixing and Distributional Shifts in Low-Resource NLP**
+**Stress-Testing Indonesian Sentiment Classification under Weak Supervision, Domain Generalization, and Character-Level Perturbations**
 
 The study investigates the robustness, generalization capability, and statistical reliability of Large Language Models for Indonesian sentiment analysis under realistic low-resource conditions.
 
@@ -78,7 +76,6 @@ results/
 figures/  
 appendix_figures/  
 data/  
-notebooks/  
 src/  
 docs/
 
